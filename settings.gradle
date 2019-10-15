@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Add Animation Challenge Team 60 Group2'
